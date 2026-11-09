@@ -1,5 +1,7 @@
 # github-actions-nodejs-cicd
 
+***2024년 2학기 오픈소스소프트웨어 과목에서 사용함***
+
 EC2에 Git Action Runner를 설치한 후, 자동으로 Node.js 응용을 EC2에 배포합니다.
 
 서버는  '0.0.0.0:3000'에서 리스닝 수행하고 있으며
